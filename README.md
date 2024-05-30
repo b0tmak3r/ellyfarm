@@ -18,6 +18,7 @@ https://github.com/b0tmak3r/ellyfarm/releases/tag/elly
 # QnA
 Q. 윈도우 디펜더가 프로그램을 바이러스로 인식해요. 악성코드 아니에요?
 
+
 A. 이 프로그램은 파이썬 기반이며 pyinstaller을 사용하여 exe파일로 만들어졌습니다.
 
    윈도우 디펜더는 자신들의 서버에 보고되지 않은 exe이면 무조건 차단합니다. 
