@@ -12,6 +12,8 @@
 
 디스코드 문의주세요 : b0tmak3r
 
+# 다운로드
+https://github.com/b0tmak3r/ellyfarm/releases/tag/elly
 
 # QnA
 Q. 윈도우 디펜더가 프로그램을 바이러스로 인식해요. 악성코드 아니에요?
