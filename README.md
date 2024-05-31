@@ -13,13 +13,8 @@
 디스코드 문의주세요 : b0tmak3r
 
 
+[![엘리팜 자동낚시 시연영상](https:/i3.ytimg.com/vi/iCW5czVaeYU/hqdefault.jpg)](https://www.youtube.com/watch?v=iCW5czVaeYU)
 
-[![시연영상](https://i3.ytimg.com/vi/iCW5czVaeYU/hqdefault.jpg)](https://youtu.be/iCW5czVaeYU?si=3XBZY7yKihm5BwQ1)
-
-
-
-# 다운로드
-https://github.com/b0tmak3r/ellyfarm/releases/tag/elly
 
 # QnA
 Q. 윈도우 디펜더가 프로그램을 바이러스로 인식해요. 악성코드 아니에요?
