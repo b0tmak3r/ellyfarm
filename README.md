@@ -12,8 +12,12 @@
 
 디스코드 문의주세요 : b0tmak3r
 
-
+# 시연영상
 [![엘리팜 자동낚시](https://i.imgur.com/kB5Gnoq.png)](https://www.youtube.com/watch?v=iCW5czVaeYU)
+
+
+# 다운로드
+https://github.com/b0tmak3r/ellyfarm/releases
 
 
 # QnA
