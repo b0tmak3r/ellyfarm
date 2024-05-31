@@ -13,7 +13,7 @@
 디스코드 문의주세요 : b0tmak3r
 
 
-[![엘리팜 자동낚시](https://i.imgur.com/6KDY8ie.png)](https://www.youtube.com/watch?v=iCW5czVaeYU)
+[![엘리팜 자동낚시](https://i.imgur.com/kB5Gnoq.png)](https://www.youtube.com/watch?v=iCW5czVaeYU)
 
 
 # QnA
